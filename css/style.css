@@ -100,6 +100,13 @@ p {
 .section-info {
     font-size: 22px;
     line-height: 35px;
+    color: #F37b83;
+}
+
+.section-info i {
+    font-size: 18px;
+    font-style: normal;
+    color: #a88590;
 }
 
 a.button {
@@ -843,7 +850,8 @@ h1.entry-title {
 .portfolio-cat {
     font-size: 15px;
     color: #faefff;
-    line-height: 100%;
+    line-height: 150%;
+    padding-top: 3%;
 }
 
 .portfolio-cat:before {
