@@ -23,7 +23,7 @@
         $('#toggle').on("click", multiClickFunctionStop);
         setMenu();
         setHash();
-        $('.doc-loader').fadeOut();
+        // $('.doc-loader').fadeOut();
     });
 
     $(window).on('resize', function () {
