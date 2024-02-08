@@ -1629,9 +1629,13 @@ p.contact-submit-holder {
         display: none;
     }
 
+
 }
 
 @media screen and (max-width: 767px) {  
+    .hack_portfolio_link {
+        visibility: visible !important;
+    }
 
     .full-width-section .section-wrapper {
         height: auto;
@@ -1797,4 +1801,10 @@ p.contact-submit-holder {
         margin-bottom: 20px; 
     }
 
+}
+
+.hack_portfolio_link{
+    border: none !important;
+    padding-left: 0 !important;
+    visibility: hidden;
 }
