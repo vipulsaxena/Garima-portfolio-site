@@ -660,6 +660,7 @@ h1.entry-title {
 
 .button-group-wrapper > a:last-of-type {
     margin-right: 0;
+    width: 100%;
 }
 
 
@@ -823,7 +824,7 @@ h1.entry-title {
     left: 0;
     top: 0;
     z-index: 1;
-    font-size: 20px;
+    font-size: 18px;
     background-color: #f37b83;
     padding: 20px;
     transform: translateX(-100%);
@@ -850,7 +851,7 @@ h1.entry-title {
 }
 
 .portfolio-text {
-    font-size: 28px;
+    font-size: 22px;
     line-height: 100%;
     font-weight: 700;
     color: #faefff;
@@ -1457,7 +1458,7 @@ p.contact-submit-holder {
 @media screen and (max-width: 1440px) {
 
     .portfolio-text {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     span.skill-circle-num,
